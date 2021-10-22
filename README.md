@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=gustavoguichard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+
 <!--
 **gustavoguichard/gustavoguichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=gustavoguichard&show_icons=true&hide_title=true&theme=darcula)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguichard&layout=compact&theme=dark) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavoguichard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
