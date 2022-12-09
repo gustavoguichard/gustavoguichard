@@ -6,4 +6,4 @@ I've been developing web apps for about 20 years. I love OSS, TypeScript, Remix 
 
 I'm currently creating content, developing libraries and fighting TS so others don't have to!
 
-Want to hire me? Check out [DX as a Service](https://dx.seasoned.cc/)
+Want to work with me? Check out [DX as a Service](https://dx.seasoned.cc/)
