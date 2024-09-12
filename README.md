@@ -2,9 +2,9 @@
 
 ## Partner and Head of DX at [Seasoned](https://github.com/seasonedcc)
 
-I've been developing web apps for 20 years. I love OSS, TypeScript, Remix and I'm creator of [make-service](https://github.com/gustavoguichard/make-service), [string-ts](https://github.com/gustavoguichard/string-ts), and co-creator of [composable-functions](https://github.com/SeasonedSoftware/composable-functions).
+I've been developing web apps for over 20 years. I love OSS, TypeScript, Remix and I'm creator of [make-service](https://github.com/gustavoguichard/make-service), [string-ts](https://github.com/gustavoguichard/string-ts), and co-creator of [composable-functions](https://github.com/SeasonedSoftware/composable-functions).
 
-I'm currently creating content, developing libraries and fighting TS so others don't have to!
+I'm currently co-creating [Flashboard](https://getflashboard.com), creating content, developing libraries and fighting TS so others don't have to!
 
 ### Socials
 
